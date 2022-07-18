@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi, I'm Golnag Developer
 
-<!--
-**sirojiddinbazarbaev/sirojiddinbazarbaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My contributions
+[![](https://github-readme-streak-stats.herokuapp.com?user=sirojiddinbazarbaev&theme=react)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
+## My stats
+[![sirojiddinbazarbaev's github stats](https://github-readme-stats.vercel.app/api?username=sirojiddinbazarbaev&show_icons=true&theme=react)](https://github.com/sirojiddinbazarbaev/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Using languages
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sirojiddinbazarbaev&show_icons=true&theme=react)
+
+## WakaTime stats
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=sirojiddinbazarbaev&show_icons=true&theme=react)](https://github.com/sirojiddinbazarbaev/github-readme-stats)
+
+## Codewars stats
+<img align="center" src="https://www.codewars.com/users/sirojiddinbazarbaev/badges/large" />
+
+## Social Media
+<a href="https://www.linkedin.com/in/sirojiddinbazarbaev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>
+<a href="https://www.instagram.com/sirojiddinbazarbaev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="" /></a>
+<a href="https://www.facebook.com/thesirojiddinbazarbaev/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="" /></a>
+<a href="https://t.me/sirojiddinbazarbaev/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="" /></a>
